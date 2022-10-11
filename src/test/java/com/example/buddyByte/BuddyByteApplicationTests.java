@@ -1,0 +1,13 @@
+package com.example.buddyByte;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BuddyByteApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
